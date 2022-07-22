@@ -1,0 +1,30 @@
+.home-hello{
+  margin-top:40px;
+  font-size: calc(80px + 1vmin);
+}
+.home-name{
+  font-size: calc(80px + 1vmin);
+}
+.home-description{
+  font-size: calc(40px + 1vmin);
+}
+.button-home {
+    color:#000000 !important;
+    background-color: #FFFF !important;
+    border-color:#000000 !important;
+    border-radius:40px !important;
+    padding:15px;
+    min-height:70px;
+    min-width: 160px;
+    align-items: center;
+    margin-right:50px;
+    margin-left:50px;
+    margin-top:80px;
+    margin-bottom:84px;
+  }
+  button-home:hover {
+      background-color:#A9A9A9 !important;
+      transition: 0.7s;
+      color:#000000 !important;
+      border-color:#000000 !important;
+  }

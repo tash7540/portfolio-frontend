@@ -1,0 +1,44 @@
+.page-title{
+  font-size: calc(60px + 1vmin);
+}
+.education-uni{
+  display:flex;
+  font-size: 30px;
+  margin-top:40px;
+}
+.education-degree{
+  display:flex;
+  font-size: 25px;
+  margin-left:130px;
+  margin-bottom:30px;
+}
+
+.education-li{
+  display:flex;
+  float:left;
+  justify-content:space-around;
+  flex-direction:row-reverse;
+  font-size: 22px;
+  margin-left:80px;
+  margin-right:90px;
+
+}
+.footer{
+  margin-bottom:40px;
+}
+.courses{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+}
+.logo {
+  display: flex;
+  pointer-events: none;
+  margin:30px;
+  width: 70px;
+  height:70px;
+}
+.education-div{
+  display: flex;
+
+}
