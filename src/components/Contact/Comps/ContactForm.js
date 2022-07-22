@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {Form,Button} from 'react-bootstrap';
 import { useState } from "react";
 import axios from 'axios';
-import emailjs from 'emailjs-com';
 
 
 function ContactForm() {
