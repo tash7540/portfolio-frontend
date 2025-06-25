@@ -1,6 +1,5 @@
-import {Link} from 'react-router-dom';
 import './styles.css';
-import {Container,Row,Col,Button} from 'react-bootstrap';
+import {Container,Row,Col} from 'react-bootstrap';
 import Skills from './Skills/skills.js';
 function About() {
   return (

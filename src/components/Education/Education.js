@@ -3,7 +3,6 @@ import './styles.css';
 import cuLogo from '../../img/cu-logo.jfif';
 import ccaLogo from '../../img/cca-logo.png';
 
-import {Link} from 'react-router-dom';
 
 function Education() {
   return (

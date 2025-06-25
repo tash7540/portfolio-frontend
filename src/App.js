@@ -5,7 +5,6 @@ import NavbarComp from './components/Navbar/NavbarComp.js';
 import Work from './components/Work/Work.js';
 import Education from './components/Education/Education.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Container,Row,Col,Form,Card,Button} from 'react-bootstrap';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import './App.css';

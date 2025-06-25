@@ -2,7 +2,6 @@ import {Container,Row,Col} from 'react-bootstrap';
 import './styles.css';
 import cuLogo from '../../img/cu-logo.jfif';
 import nsfLogo from '../../img/nsf-logo.jfif';
-import {Link} from 'react-router-dom';
 
 function Work() {
   return (

@@ -1,6 +1,6 @@
 import '../styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Form,Button} from 'react-bootstrap';
+import {Form} from 'react-bootstrap';
 import { useState } from "react";
 import axios from 'axios';
 
@@ -10,7 +10,7 @@ function ContactForm() {
 
   const handleSubmit = (e) =>{
     e.preventDefault();
-    if (postData.email1 != ''){
+    if (postData.email1 !== ''){
       clear();
     }
     else if(postData.name === '' || postData.email === ''|| postData.subject=== '' || postData.message === ''){

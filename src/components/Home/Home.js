@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom';
 import './styles.css';
-import {Container,Row,Col,Button} from 'react-bootstrap';
+import {Container,Row,Button} from 'react-bootstrap';
 
 function Home() {
   return (
